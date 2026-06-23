@@ -1,2 +1,5 @@
 # gitdemo
-Auther:Shailendra Mishra
+Author:Shailendra Mishra
+
+
+
